@@ -1,4 +1,4 @@
-# Sales and Finance Analytics - AtliQ Technologies
+# Sales and Finance Analytics Using Excel - AtliQ Technologies
 
 
 📋 Project Overview
